@@ -1,0 +1,715 @@
+[03-Apr-2026 15:57:27 Africa/Douala] Campay API Response: {"reference":"f70db64d-f41d-4d32-89e0-e557c0f4f889","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[03-Apr-2026 15:57:47 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 15:57:47 Africa/Douala] Commande ID: 81
+[03-Apr-2026 15:57:47 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 15:57:47 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 15:57:47 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 15:57:49 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 15:57:49 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 15:57:51 Africa/Douala] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Mycksoft\includes\config.php on line 900
+[03-Apr-2026 15:57:51 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 15:57:51 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 15:57:51 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 16:32:54 Africa/Douala] Campay API Response: {"reference":"62cf0ccb-84fe-4fec-8d07-6d1e4600b40f","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[03-Apr-2026 16:33:51 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 16:33:51 Africa/Douala] Commande ID: 82
+[03-Apr-2026 16:33:51 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 16:33:51 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 16:33:51 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 16:33:55 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 16:33:55 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 16:33:57 Africa/Douala] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Mycksoft\includes\config.php on line 900
+[03-Apr-2026 16:33:57 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 16:33:57 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 16:33:57 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 16:34:03 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 16:34:03 Africa/Douala] Commande ID: 82
+[03-Apr-2026 16:34:03 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:03 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:03 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 16:34:08 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 16:34:08 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:10 Africa/Douala] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Mycksoft\includes\config.php on line 900
+[03-Apr-2026 16:34:10 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 16:34:10 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 16:34:10 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 16:34:14 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 16:34:14 Africa/Douala] Commande ID: 82
+[03-Apr-2026 16:34:14 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:14 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:14 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 16:34:20 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 16:34:20 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 16:34:22 Africa/Douala] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\Mycksoft\includes\config.php on line 900
+[03-Apr-2026 16:34:22 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 16:34:22 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 16:34:22 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 16:52:13 Africa/Douala] Campay API Response: {"reference":"61fa5c2e-e499-4963-baf5-576e415742ac","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[03-Apr-2026 16:52:34 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 16:52:34 Africa/Douala] Commande ID: 83
+[03-Apr-2026 16:52:34 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:34 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:34 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 16:52:38 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 16:52:38 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:39 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 16:52:39 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 16:52:39 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 16:52:41 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 16:52:41 Africa/Douala] Commande ID: 83
+[03-Apr-2026 16:52:41 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:41 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:41 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 16:52:43 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 16:52:43 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[03-Apr-2026 16:52:43 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 16:52:43 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 16:52:43 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[03-Apr-2026 17:13:19 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[03-Apr-2026 17:19:24 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[03-Apr-2026 17:26:52 Africa/Douala] Erreur de recherche: SQLSTATE[HY093]: Invalid parameter number
+[03-Apr-2026 17:27:04 Africa/Douala] Erreur de recherche: SQLSTATE[HY093]: Invalid parameter number
+[03-Apr-2026 17:27:22 Africa/Douala] Erreur de recherche: SQLSTATE[HY093]: Invalid parameter number
+[03-Apr-2026 17:32:36 Africa/Douala] PHP Warning:  require_once(classes/Notification.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Mycksoft\notifications.php on line 4
+[03-Apr-2026 17:32:36 Africa/Douala] PHP Fatal error:  Uncaught Error: Failed opening required 'classes/Notification.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mycksoft\notifications.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 4
+[03-Apr-2026 17:34:27 Africa/Douala] PHP Warning:  require_once(Notification.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Mycksoft\notifications.php on line 4
+[03-Apr-2026 17:34:27 Africa/Douala] PHP Fatal error:  Uncaught Error: Failed opening required 'Notification.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Mycksoft\notifications.php:4
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 4
+[03-Apr-2026 17:34:51 Africa/Douala] PHP Warning:  Undefined variable $notification in C:\xampp\htdocs\Mycksoft\notifications.php on line 35
+[03-Apr-2026 17:34:51 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function getUserNotifications() on null in C:\xampp\htdocs\Mycksoft\notifications.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 35
+[03-Apr-2026 17:35:21 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 35
+[03-Apr-2026 17:35:21 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function getUserNotifications() on null in C:\xampp\htdocs\Mycksoft\notifications.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 35
+[03-Apr-2026 17:35:44 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 36
+[03-Apr-2026 17:35:44 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function countUnread() on null in C:\xampp\htdocs\Mycksoft\notifications.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 36
+[03-Apr-2026 17:36:03 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 40
+[03-Apr-2026 17:36:03 Africa/Douala] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Mycksoft\notifications.php on line 40
+[03-Apr-2026 17:36:03 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:36:03 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:256
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:36:56 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:36:56 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:256
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:37:23 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:37:23 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:256
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:38:08 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[03-Apr-2026 17:38:11 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:38:11 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:256
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 256
+[03-Apr-2026 17:44:48 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.notifications' doesn't exist in C:\xampp\htdocs\Mycksoft\classes\notification.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\classes\notification.php(13): PDO->prepare('\r\n            S...')
+#1 C:\xampp\htdocs\Mycksoft\notifications.php(98): Notification->getUserNotifications(5, 50)
+#2 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\classes\notification.php on line 13
+[03-Apr-2026 17:45:39 Africa/Douala] PHP Warning:  Undefined variable $user_role in C:\xampp\htdocs\Mycksoft\notifications.php on line 17
+[03-Apr-2026 17:45:39 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.notifications' doesn't exist in C:\xampp\htdocs\Mycksoft\classes\notification.php:13
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\classes\notification.php(13): PDO->prepare('\r\n            S...')
+#1 C:\xampp\htdocs\Mycksoft\notifications.php(98): Notification->getUserNotifications(5, 50)
+#2 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\classes\notification.php on line 13
+[03-Apr-2026 17:47:08 Africa/Douala] PHP Warning:  Undefined variable $user_role in C:\xampp\htdocs\Mycksoft\notifications.php on line 17
+[03-Apr-2026 17:47:08 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to undefined method Notification::getUserNotifications() in C:\xampp\htdocs\Mycksoft\notifications.php:98
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 98
+[03-Apr-2026 17:47:47 Africa/Douala] PHP Warning:  Undefined variable $user_role in C:\xampp\htdocs\Mycksoft\notifications.php on line 17
+[03-Apr-2026 17:47:47 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.notifications' doesn't exist in C:\xampp\htdocs\Mycksoft\classes\notification.php:24
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\classes\notification.php(24): PDO->prepare('\r\n            S...')
+#1 C:\xampp\htdocs\Mycksoft\notifications.php(99): Notification->countUnread(5)
+#2 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\classes\notification.php on line 24
+[03-Apr-2026 17:48:18 Africa/Douala] PHP Warning:  Undefined variable $user_role in C:\xampp\htdocs\Mycksoft\notifications.php on line 17
+[03-Apr-2026 17:48:18 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 114
+[03-Apr-2026 17:48:18 Africa/Douala] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Mycksoft\notifications.php on line 114
+[03-Apr-2026 17:48:18 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 405
+[03-Apr-2026 17:48:18 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 405
+[03-Apr-2026 17:48:46 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 154
+[03-Apr-2026 17:48:46 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:154
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 154
+[03-Apr-2026 17:57:03 Africa/Douala] Campay API Response: {"message":"Invalid phone number","error_code":"ER101"} HTTP Code: 400
+[03-Apr-2026 17:57:53 Africa/Douala] Campay API Response: {"message":"Invalid phone number","error_code":"ER101"} HTTP Code: 400
+[03-Apr-2026 17:58:55 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[03-Apr-2026 17:59:15 Africa/Douala] Campay API Response: {"message":"Minimum amount for Orange is 10.00","error_code":"ER201"} HTTP Code: 400
+[03-Apr-2026 18:01:16 Africa/Douala] Campay API Response: {"reference":"aff9e663-85e9-4f8b-9e04-3eb543b61a5d","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[03-Apr-2026 18:03:45 Africa/Douala] Campay API Response: {"reference":"b1e67763-60be-4fd9-bccd-fe7d97ceb5b0","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[03-Apr-2026 18:04:04 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[03-Apr-2026 18:04:04 Africa/Douala] Commande ID: 89
+[03-Apr-2026 18:04:04 Africa/Douala] Email trouvé dans commande: merinoleumegne513@gmail.com
+[03-Apr-2026 18:04:04 Africa/Douala] sendEmailSMTP: Début - Destinataire: merinoleumegne513@gmail.com
+[03-Apr-2026 18:04:04 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[03-Apr-2026 18:04:06 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[03-Apr-2026 18:04:06 Africa/Douala] sendMailFallback: Utilisation de mail() pour merinoleumegne513@gmail.com
+[03-Apr-2026 18:04:06 Africa/Douala] sendMailFallback: Résultat = échec
+[03-Apr-2026 18:04:06 Africa/Douala] Résultat final: ÉCHEC
+[03-Apr-2026 18:04:06 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[04-Apr-2026 21:02:13 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 14:53:22 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:53:22 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:53:22 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:53:25 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:53:25 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:53:25 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:53:27 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:53:27 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:53:27 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:55:07 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:55:07 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:55:07 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:56:37 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:56:37 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:56:37 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:57:05 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:57:05 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:57:05 Africa/Douala] PHP Deprecated:  round(): Passing null to parameter #1 ($num) of type int|float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 429
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Warning:  Undefined variable $note in C:\xampp\htdocs\Mycksoft\products\product.php on line 431
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Warning:  Undefined variable $note in C:\xampp\htdocs\Mycksoft\products\product.php on line 431
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Warning:  Undefined variable $note in C:\xampp\htdocs\Mycksoft\products\product.php on line 431
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Warning:  Undefined variable $note in C:\xampp\htdocs\Mycksoft\products\product.php on line 431
+[05-Apr-2026 14:57:23 Africa/Douala] PHP Warning:  Undefined variable $note in C:\xampp\htdocs\Mycksoft\products\product.php on line 431
+[05-Apr-2026 14:57:40 Africa/Douala] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 123
+[05-Apr-2026 14:57:40 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 14:58:12 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 15:02:15 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 15:02:16 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 15:15:21 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 15:32:55 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 15:33:41 Africa/Douala] Campay API Response: {"reference":"0687de55-a481-45fa-b5cb-d3d237ed3d84","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[05-Apr-2026 15:38:17 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 15:39:57 Africa/Douala] PHP Warning:  Undefined variable $notifications in C:\xampp\htdocs\Mycksoft\notifications.php on line 154
+[05-Apr-2026 15:39:57 Africa/Douala] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\Mycksoft\notifications.php:154
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\notifications.php on line 154
+[05-Apr-2026 15:40:09 Africa/Douala] Erreur récupération catégories: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.est_active' in 'where clause'
+[05-Apr-2026 15:43:31 Africa/Douala] Erreur récupération catégories: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c.est_active' in 'where clause'
+[05-Apr-2026 15:49:40 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 18:27:56 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 18:28:01 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 18:28:02 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 18:32:07 Africa/Douala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Mycksoft\index.php on line 444
+[05-Apr-2026 18:32:34 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 18:56:32 Africa/Douala] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\Mycksoft\index.php on line 444
+[05-Apr-2026 19:11:57 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 19:12:21 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 19:40:30 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 19:59:46 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 20:10:32 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 20:10:46 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 20:11:34 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 20:28:22 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[05-Apr-2026 20:32:28 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[05-Apr-2026 20:39:10 Africa/Douala] Erreur de recherche: SQLSTATE[HY093]: Invalid parameter number
+[06-Apr-2026 09:52:18 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 09:52:55 Africa/Douala] Campay API Response: {"reference":"18cbcb5f-f4ac-4af7-abc9-a02985b44269","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 09:53:45 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 09:53:45 Africa/Douala] Commande ID: 92
+[06-Apr-2026 09:53:45 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 09:53:45 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 09:53:45 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 09:58:51 Africa/Douala] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Mycksoft\vendor\phpmailer\phpmailer\src\SMTP.php on line 506
+[06-Apr-2026 09:59:41 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 09:59:41 Africa/Douala] Commande ID: 92
+[06-Apr-2026 09:59:41 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 09:59:41 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 09:59:41 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 10:00:33 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate. SMTP server error: QUIT command failed
+[06-Apr-2026 10:00:33 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 10:00:34 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 10:00:34 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 10:00:34 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 10:07:05 Africa/Douala] Campay API Response: {"reference":"7410d45e-56e0-4527-97b4-44d9cf54d1be","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 10:07:29 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 10:07:29 Africa/Douala] Commande ID: 93
+[06-Apr-2026 10:07:29 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:29 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:29 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 10:07:31 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 10:07:31 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:32 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 10:07:32 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 10:07:32 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 10:07:34 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 10:07:34 Africa/Douala] Commande ID: 93
+[06-Apr-2026 10:07:34 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:34 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:34 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 10:07:37 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 10:07:37 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 10:07:37 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 10:07:37 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 10:07:37 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 11:01:46 Africa/Douala] Campay API Response: {"reference":"07f69dab-613f-46b3-b1c9-60618af56dce","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 11:02:07 Africa/Douala] Campay Token CURL Error: Recv failure: Connection was reset
+[06-Apr-2026 11:02:40 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 11:02:40 Africa/Douala] Commande ID: 94
+[06-Apr-2026 11:02:40 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 11:02:40 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 11:02:40 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 11:02:47 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 11:02:47 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 11:02:47 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 11:02:47 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 11:02:47 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 11:03:03 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 11:03:03 Africa/Douala] Commande ID: 94
+[06-Apr-2026 11:03:03 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 11:03:03 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 11:03:03 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 11:03:10 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 11:03:10 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 11:03:10 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 11:03:10 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 11:03:10 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 11:12:43 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 11:22:17 Africa/Douala] 2026-04-06 11:22:17 - Erreur indicateur typing - Contexte: {"user_id":12,"error":"SQLSTATE[22007]: Invalid datetime format: 1366 Incorrect integer value: '' for column `ecommerce`.`utilisateur_connexion`.`est_entrain_ecrire` at row 1"}
+[06-Apr-2026 11:22:19 Africa/Douala] 2026-04-06 11:22:19 - Message envoyé - Contexte: {"de":12,"\u00e0":5,"type":"text"}
+[06-Apr-2026 11:41:22 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 11:52:19 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[06-Apr-2026 13:08:44 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 14:01:21 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 14:01:31 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:01:45 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:07:16 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:07:53 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:19:30 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:19:39 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:21:28 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:22:18 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:34:16 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:34:48 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 14:35:17 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 15:20:12 Africa/Douala] Campay API Response: {"reference":"0712142b-bce7-4358-b1dc-3228a644218b","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 15:20:31 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 15:20:31 Africa/Douala] Commande ID: 97
+[06-Apr-2026 15:20:31 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 15:20:31 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 15:20:31 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 15:20:33 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 15:20:33 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 15:20:34 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 15:20:34 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 15:20:34 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 15:22:27 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 15:26:11 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 15:26:54 Africa/Douala] Campay API Response: {"reference":"297d5cdf-2dba-4604-966e-aa73699504a6","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 15:27:14 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 15:27:14 Africa/Douala] Commande ID: 98
+[06-Apr-2026 15:27:14 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 15:27:14 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 15:27:14 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 15:27:17 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 15:27:17 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 15:27:17 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 15:27:17 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 15:27:17 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 17:36:05 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 17:36:22 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:37:13 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  Undefined array key "total" in C:\xampp\htdocs\Mycksoft\facture.php on line 761
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  Undefined array key "total_montant" in C:\xampp\htdocs\Mycksoft\facture.php on line 765
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 765
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  Undefined array key "payee" in C:\xampp\htdocs\Mycksoft\facture.php on line 769
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  Undefined array key "impayee" in C:\xampp\htdocs\Mycksoft\facture.php on line 773
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  Undefined array key "montant_impaye" in C:\xampp\htdocs\Mycksoft\facture.php on line 777
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 777
+[06-Apr-2026 17:37:16 Africa/Douala] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\Mycksoft\facture.php on line 797
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:37:18 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:37:19 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.clients' doesn't exist in C:\xampp\htdocs\Mycksoft\facture.php:892
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\facture.php(892): PDO->query('SELECT id, nom ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\facture.php on line 892
+[06-Apr-2026 17:39:35 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 847
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 848
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 849
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 850
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 851
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\facture.php on line 852
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 856
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 857
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 858
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 859
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 860
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 865
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 866
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 867
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Undefined variable $facture in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:40:58 Africa/Douala] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\Mycksoft\facture.php on line 868
+[06-Apr-2026 17:41:01 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.factures' doesn't exist in C:\xampp\htdocs\Mycksoft\facture.php:32
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\facture.php(32): PDO->prepare('\r\n        SELEC...')
+#1 C:\xampp\htdocs\Mycksoft\facture.php(216): getFactureById(Object(PDO), '<br /><b>Warnin...')
+#2 C:\xampp\htdocs\Mycksoft\facture.php(471): exporterFactureHTML(Object(PDO), '<br /><b>Warnin...')
+#3 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\facture.php on line 32
+[06-Apr-2026 17:59:42 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[06-Apr-2026 18:00:17 Africa/Douala] Campay API Response: {"reference":"1ebcd5bb-c721-441a-96df-3792ac020270","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[06-Apr-2026 18:00:37 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[06-Apr-2026 18:00:37 Africa/Douala] Commande ID: 99
+[06-Apr-2026 18:00:37 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[06-Apr-2026 18:00:37 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[06-Apr-2026 18:00:37 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[06-Apr-2026 18:00:39 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[06-Apr-2026 18:00:39 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[06-Apr-2026 18:00:40 Africa/Douala] sendMailFallback: Résultat = échec
+[06-Apr-2026 18:00:40 Africa/Douala] Résultat final: ÉCHEC
+[06-Apr-2026 18:00:40 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[06-Apr-2026 18:12:39 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:02:48 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 05:03:45 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:07:12 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:08:23 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 05:15:38 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters in C:\xampp\htdocs\Mycksoft\index.php:194
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\index.php(194): PDO->prepare('SELECT p.*, c.n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\index.php on line 194
+[07-Apr-2026 05:15:44 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: mixed named and positional parameters in C:\xampp\htdocs\Mycksoft\index.php:194
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\index.php(194): PDO->prepare('SELECT p.*, c.n...')
+#1 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\index.php on line 194
+[07-Apr-2026 05:16:38 Africa/Douala] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\Mycksoft\index.php on line 198
+[07-Apr-2026 05:16:38 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in C:\xampp\htdocs\Mycksoft\index.php:198
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\index.php on line 198
+[07-Apr-2026 05:16:53 Africa/Douala] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\Mycksoft\index.php on line 200
+[07-Apr-2026 05:16:53 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in C:\xampp\htdocs\Mycksoft\index.php:200
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\index.php on line 200
+[07-Apr-2026 05:17:14 Africa/Douala] PHP Warning:  Undefined variable $stmt in C:\xampp\htdocs\Mycksoft\index.php on line 201
+[07-Apr-2026 05:17:14 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to a member function bindValue() on null in C:\xampp\htdocs\Mycksoft\index.php:201
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\index.php on line 201
+[07-Apr-2026 05:19:46 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:21:49 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:22:45 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.login_attempts' doesn't exist
+[07-Apr-2026 05:22:52 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:23:19 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:24:03 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 05:25:12 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:04:15 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:05:09 Africa/Douala] Campay API Response: {"reference":"1caaf23b-b163-477f-9ae9-82058d57b670","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 12:05:29 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[07-Apr-2026 12:05:29 Africa/Douala] Commande ID: 100
+[07-Apr-2026 12:05:29 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:29 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:29 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[07-Apr-2026 12:05:34 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[07-Apr-2026 12:05:34 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:34 Africa/Douala] sendMailFallback: Résultat = échec
+[07-Apr-2026 12:05:34 Africa/Douala] Résultat final: ÉCHEC
+[07-Apr-2026 12:05:34 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[07-Apr-2026 12:05:37 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[07-Apr-2026 12:05:37 Africa/Douala] Commande ID: 100
+[07-Apr-2026 12:05:37 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:37 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:37 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[07-Apr-2026 12:05:40 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[07-Apr-2026 12:05:40 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[07-Apr-2026 12:05:41 Africa/Douala] sendMailFallback: Résultat = échec
+[07-Apr-2026 12:05:41 Africa/Douala] Résultat final: ÉCHEC
+[07-Apr-2026 12:05:41 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[07-Apr-2026 12:08:09 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:08:20 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:17:07 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:17:51 Africa/Douala] Campay API Response: {"reference":"1c641f65-3b6b-4055-bc4a-2200b6a7329b","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 12:18:08 Africa/Douala] === ENVOI EMAIL CONFIRMATION - DÉBUT ===
+[07-Apr-2026 12:18:08 Africa/Douala] Commande ID: 101
+[07-Apr-2026 12:18:08 Africa/Douala] Email trouvé dans commande: abrahamchimi511@gmail.com
+[07-Apr-2026 12:18:08 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com
+[07-Apr-2026 12:18:08 Africa/Douala] sendEmailSMTP: Tentative d'envoi...
+[07-Apr-2026 12:18:11 Africa/Douala] sendEmailSMTP: Erreur - SMTP Error: Could not authenticate.
+[07-Apr-2026 12:18:11 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[07-Apr-2026 12:18:12 Africa/Douala] sendMailFallback: Résultat = échec
+[07-Apr-2026 12:18:12 Africa/Douala] Résultat final: ÉCHEC
+[07-Apr-2026 12:18:12 Africa/Douala] === ENVOI EMAIL CONFIRMATION - FIN ===
+[07-Apr-2026 12:20:43 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:28:19 Africa/Douala] PHP Fatal error:  Cannot redeclare envoyerEmailConfirmationPaiement() (previously declared in C:\xampp\htdocs\Mycksoft\includes\config.php:908) in C:\xampp\htdocs\Mycksoft\includes\mail_functions.php on line 225
+[07-Apr-2026 12:28:57 Africa/Douala] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in C:\xampp\htdocs\Mycksoft\test_phpmailer.php:39
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\test_phpmailer.php on line 39
+[07-Apr-2026 12:31:24 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate.
+[07-Apr-2026 12:36:09 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:44:54 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate. SMTP server error: QUIT command failed
+[07-Apr-2026 12:51:51 Africa/Douala] Campay API Response: {"reference":"494844ed-2e6f-4a14-a798-4d89eff0c548","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 12:52:13 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to undefined function envoyerEmailConfirmationPaiement() in C:\xampp\htdocs\Mycksoft\commande_confirmation.php:120
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\commande_confirmation.php on line 120
+[07-Apr-2026 12:52:15 Africa/Douala] PHP Fatal error:  Uncaught Error: Call to undefined function envoyerEmailConfirmationPaiement() in C:\xampp\htdocs\Mycksoft\commande_confirmation.php:120
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\commande_confirmation.php on line 120
+[07-Apr-2026 12:54:41 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate.
+[07-Apr-2026 12:56:54 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate.
+[07-Apr-2026 12:58:25 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 12:58:50 Africa/Douala] Campay API Response: {"reference":"62171ffb-5bfd-4ac3-a1d6-c98fc38deada","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 12:59:14 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate.
+[07-Apr-2026 12:59:18 Africa/Douala] Erreur envoi email confirmation: SMTP Error: Could not authenticate.
+[07-Apr-2026 13:02:41 Africa/Douala] PHP Parse error:  syntax error, unexpected token "<" in C:\xampp\htdocs\Mycksoft\includes\mail_functions.php on line 201
+[07-Apr-2026 13:05:02 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 13:12:37 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 13:12:47 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 13:13:19 Africa/Douala] Campay API Response: {"reference":"668152d3-5ea0-4d3f-ae8e-b5897c6ed65b","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 13:13:39 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[07-Apr-2026 13:13:39 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[07-Apr-2026 13:13:39 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[07-Apr-2026 13:13:39 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[07-Apr-2026 13:13:39 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[07-Apr-2026 13:13:39 Africa/Douala] sendMailFallback: Résultat = échec
+[07-Apr-2026 13:13:39 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[07-Apr-2026 13:16:10 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 13:16:31 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 13:16:44 Africa/Douala] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.image' in 'field list' in C:\xampp\htdocs\Mycksoft\facture.php:73
+Stack trace:
+#0 C:\xampp\htdocs\Mycksoft\facture.php(73): PDO->prepare('\r\n            S...')
+#1 C:\xampp\htdocs\Mycksoft\facture.php(719): getCommandeFactureData(Object(PDO), 104, 5)
+#2 {main}
+  thrown in C:\xampp\htdocs\Mycksoft\facture.php on line 73
+[07-Apr-2026 13:26:19 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 2301
+[07-Apr-2026 13:26:20 Africa/Douala] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 2301
+[07-Apr-2026 13:26:27 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 13:44:30 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 13:59:47 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[07-Apr-2026 14:00:11 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[07-Apr-2026 14:08:59 Africa/Douala] Campay API Response: {"reference":"b76d1f1a-cd64-460f-817e-a17df85e0bd1","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[07-Apr-2026 14:09:18 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[07-Apr-2026 14:09:18 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[07-Apr-2026 14:09:18 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[07-Apr-2026 14:09:18 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[07-Apr-2026 14:09:18 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[07-Apr-2026 14:09:19 Africa/Douala] sendMailFallback: Résultat = échec
+[07-Apr-2026 14:09:19 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[07-Apr-2026 14:25:26 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:25:50 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:28:12 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:32:23 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:35:15 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:36:20 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:36:31 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:38:14 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:38:26 Africa/Douala] Erreur invoice: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.orders' doesn't exist
+[07-Apr-2026 14:39:11 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:44:06 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:44:50 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 14:45:04 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 14:45:49 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 14:45:56 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 14:47:18 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 14:50:01 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 15:05:20 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 18:48:26 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 19:00:24 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 19:00:47 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 19:01:48 Africa/Douala] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\Mycksoft\facture.php on line 325
+[07-Apr-2026 19:16:59 Africa/Douala] PHP Warning:  Undefined variable $description_courte in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:16:59 Africa/Douala] PHP Warning:  Undefined variable $prix_promotion in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:16:59 Africa/Douala] PHP Warning:  Undefined variable $marque in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:16:59 Africa/Douala] PHP Warning:  Undefined variable $modele in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:16:59 Africa/Douala] PHP Warning:  Undefined variable $est_en_promotion in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:17:24 Africa/Douala] PHP Warning:  Undefined variable $description_courte in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:17:24 Africa/Douala] PHP Warning:  Undefined variable $prix_promotion in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:17:24 Africa/Douala] PHP Warning:  Undefined variable $marque in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:17:24 Africa/Douala] PHP Warning:  Undefined variable $modele in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:17:24 Africa/Douala] PHP Warning:  Undefined variable $est_en_promotion in C:\xampp\htdocs\Mycksoft\admin\dashboard_admin.php on line 1859
+[07-Apr-2026 19:24:46 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 19:34:42 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 19:37:48 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 20:50:03 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 20:50:27 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 20:50:34 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 20:50:35 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[07-Apr-2026 20:51:46 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 22:43:02 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 22:48:40 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[07-Apr-2026 22:55:08 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[08-Apr-2026 05:36:47 Africa/Douala] Erreur de connexion à la base de données: SQLSTATE[HY000] [2002] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée
+[08-Apr-2026 08:05:26 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[08-Apr-2026 10:18:39 Africa/Douala] Erreur connexion: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ecommerce.historique' doesn't exist
+[08-Apr-2026 10:58:11 Africa/Douala] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\Mycksoft\products\product.php on line 425
+[08-Apr-2026 11:02:12 Africa/Douala] Campay API Response: {"reference":"c4b41e25-7c6e-4add-87a8-91d32f891338","ussd_code":"*126#","operator":"MTN"} HTTP Code: 200
+[08-Apr-2026 11:03:41 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:03:41 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:03:41 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:03:41 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:03:41 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:03:41 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:03:41 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:03:51 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:03:51 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:03:51 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:03:51 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:03:51 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:03:51 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:03:51 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:03:56 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:03:56 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:03:56 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:03:56 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:03:56 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:03:56 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:03:56 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:01 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:01 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:01 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:01 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:01 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:01 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:01 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:23 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:23 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:23 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:23 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:23 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:24 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:24 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:28 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:28 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:28 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:28 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:28 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:29 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:29 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:32 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:32 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:32 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:32 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:32 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:33 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:33 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:36 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:36 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:36 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:36 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:36 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:36 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:36 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:38 Africa/Douala] envoyerEmailConfirmationPaiement: Début
+[08-Apr-2026 11:04:38 Africa/Douala] envoyerEmailConfirmationPaiement: Appel de sendEmailSMTP()
+[08-Apr-2026 11:04:38 Africa/Douala] sendEmailSMTP: Début - Destinataire: abrahamchimi511@gmail.com - Mode: MAIL
+[08-Apr-2026 11:04:38 Africa/Douala] sendEmailSMTP: Utilisation du mode MAIL (mail() natif)
+[08-Apr-2026 11:04:38 Africa/Douala] sendMailFallback: Utilisation de mail() pour abrahamchimi511@gmail.com
+[08-Apr-2026 11:04:39 Africa/Douala] sendMailFallback: Résultat = échec
+[08-Apr-2026 11:04:39 Africa/Douala] envoyerEmailConfirmationPaiement: Échec d'envoi à abrahamchimi511@gmail.com
